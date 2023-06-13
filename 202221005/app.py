@@ -14,8 +14,8 @@ from scipy import signal
 import control
 
 st.title('제어공학 2번 문제')
-st.header("이재한")
-st.subheader("202221033")
+st.header("서이원")
+st.subheader("202221005")
 #전달 함수 정의
 G = control.TransferFunction([100],[1,5,6])
 
